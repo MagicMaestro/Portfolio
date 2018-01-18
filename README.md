@@ -6,6 +6,7 @@ Please be aware that work submitted to this repository is my own copyrighted wor
 
 # SLC (Security Line Card) Project - Uses HTML, CSS, Javascript
 Developed October 2016 - January 2017
+Working Tool Link: http://securitylinecard.info (attribution can be found on line 103 of the source code)
 
 The Security Line Card is a web comparison matrix developed as a public-facing, security vendor comparison tool for Ingram Micro clients.  The purpose of the tool is to provide customers with contact information for the supporting teams of the products.  Over 30+ vendors, 4 main product categories (all security-based), and 38 subcategories.  The tool was developed by myself near the end of 2016.
 
