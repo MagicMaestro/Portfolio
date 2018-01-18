@@ -8,6 +8,8 @@ Please be aware that work submitted to this repository is my own copyrighted wor
 Developed January 2018
 Working Link:  http://invisiblecreationsphotography.com
 
+**Note** This was developed for use in the Chrome browser.  Additional updates will be performed to achieve full cross browser support, but are not currently in place.
+
 Personal project displaying a small portfolio of photography work.  
 
 Main requirements:  
