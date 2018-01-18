@@ -4,6 +4,23 @@ A portfolio of my web development work, including personal projects designed usi
 Please be aware that work submitted to this repository is my own copyrighted work and is submitted only for the purposes of a porfolio. It is not being offered with any open source licensing. 
 
 
+# Invisible Creations Portfolio Site - Uses PHP, Javascript, HTML, CSS
+Developed January 2018
+Working Link:  http://invisiblecreationsphotography.com
+
+Personal project displaying a small portfolio of photography work.  
+
+Main requirements:  
+•	Utilizes PHP on the Gallery.php page in order to dynamically import all JPG files located within a specific folder (adding new photographs to the website requires only that a JPG file be uploaded to the folder)  
+•	PHP is used to validate data entered on the contact page form.  
+•	Contact form generates emails with PHP when a comment or question is entered and validated  
+•	PHP is also used to create a common page template which imports header information, navigation, and footer.  Common PHP variables are used for page title and basic meta information.  
+•	Site is mobile responsive down to screens approximately 300px in width  
+•	CSS Animations are utilized on main page for presentation purposes  
+•	Javascript is used in combination with CSS animations to deliver photo enlargements on the Gallery.php page  
+
+
+
 # SLC (Security Line Card) Project - Uses HTML, CSS, Javascript
 Developed October 2016 - January 2017
 Working Tool Link: http://securitylinecard.info (attribution can be found on line 103 of the source code)
